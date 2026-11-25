@@ -66,7 +66,7 @@
 
 Adaptika provides an AI-powered ad creative generator that enables marketers and small businesses to create, customize, and ship video advertisements at scale. The platform lets users control every detail of video ads, generate multiple versions in various sizes and languages, and manage the creative workflow from a single interface. It focuses on AI-driven creativity, automation, and flexibility for modern advertising campaigns.
 
-**Areas:** Company · AI · Advertising · Video · Marketing
+**Areas:** Company · Artificial Intelligence · Advertising · Video · Marketing
 
 ## Adaptika on APIs.io
 
@@ -80,7 +80,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Adaptika Io Domain Security](https://apis.io/security/adaptika-io/adaptika-io-domain-security/)
+- [Adaptika Domain Security](https://apis.io/security/adaptika-io/adaptika-io-domain-security/)
 
 ## Where to find this API
 
@@ -92,7 +92,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 7.9** — minimal · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 7.6** — minimal · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
@@ -101,9 +101,9 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 9.5 |
-| Access clarity | 10.5 |
+| Access clarity | 12.8 |
 
-**Agent readiness 6.0** — agent-aware
+**Agent readiness 4.1** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -118,8 +118,8 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | yes |
-| Consent Identity | — |
+| Well Known Catalog | — |
+| Consent Identity | signal |
 | Agent Card | — |
 | Dry Run Mode | — |
 | Delegated Identity | — |
@@ -128,8 +128,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 9.1** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 3.6** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adaptika-io/](https://apis.io/providers/adaptika-io/).
 
